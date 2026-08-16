@@ -536,7 +536,6 @@ const COMMAND_CATEGORY_FEATURE_MAP = {
   fun: "fun",
   giveaway: "giveaways",
   jointocreate: "joinToCreate",
-  leveling: "leveling",
   logging: "logging",
   moderation: "moderation",
   music: "music",
